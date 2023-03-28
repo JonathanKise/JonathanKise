@@ -1,2 +1,1 @@
-![image0-2](https://user-images.githubusercontent.com/29007658/228390401-c4bcbde8-9600-4b7a-806e-263826cf751e.gif)
-
+![capybara](https://user-images.githubusercontent.com/29007658/228391012-c43d760d-b27c-4064-ae8b-b2fa32a47023.gif)
