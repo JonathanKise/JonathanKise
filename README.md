@@ -5,7 +5,9 @@
 
 ## About Me
 
-Hello! I'm [Your Name], a software developer with a passion for open source and building impactful projects. I have a background in [your background] and currently, I'm focused on [current focus, e.g., learning React, contributing to open source, etc.].
+I am a creator. I have a passion for hands-on system development. I have practical knowledge of electronic and
+mechanical systems backed by a strong computer science knowledge. I can rebuild a car engine as easily as I can
+write programs in C++.
 
 ## Skills and Technologies
 
