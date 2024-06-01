@@ -38,8 +38,8 @@ A brief description of what the project does, the technologies used, and any not
 
 ## Get in Touch
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](link_to_linkedin)
+- **Email**: [Jonathanekise@gmail.com](mailto:Jonathanekise@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile]([link_to_linkedin](https://www.linkedin.com/in/jonathan-kise-cs/))
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ## Fun Facts
