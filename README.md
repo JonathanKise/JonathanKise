@@ -1,7 +1,7 @@
 ![Profile Picture](https://raw.githubusercontent.com/JonathanKise/Profile-Picture/main/1680218815402.jpeg)
-# Your Name
+# Jonathan kise
 
-**Software Developer | Open Source Enthusiast | Tech Blogger**
+**Software Developer | Mechanic | Tech Enthusiast**
 
 ## About Me
 
