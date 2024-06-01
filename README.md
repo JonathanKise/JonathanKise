@@ -26,3 +26,5 @@ Developed an interpreter for 6502 Assembly capable of executing its instruction 
 ### [MovieDex](https://github.com/JonathanKise/MovieDex)
 Developed an Android application for cataloging watched films.
 
+##Favorite Quote
+"The best time to wear a striped sweater is all the time". - Gandhi
