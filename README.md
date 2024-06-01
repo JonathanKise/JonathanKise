@@ -17,13 +17,13 @@ write programs in C++.
 
 ## Projects
 
-### [Project 1 Name](link_to_project)
+### [TrueStrikeVTT]([link_to_project](https://github.com/AbsolutelyAri/TrueStrikeVTT))
 A brief description of what the project does, the technologies used, and any notable features.
 
-### [Project 2 Name](link_to_project)
+### [6502 Assembly Interpreter](https://github.com/JonathanKise/6502-Assembly-Interpreter)
 A brief description of what the project does, the technologies used, and any notable features.
 
-### [Project 3 Name](link_to_project)
+### [Movie](https://github.com/JonathanKise/MovieDex)
 A brief description of what the project does, the technologies used, and any notable features.
 
 ## Open Source Contributions
