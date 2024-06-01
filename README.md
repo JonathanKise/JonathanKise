@@ -1,1 +1,1 @@
-![capybara](https://user-images.githubusercontent.com/29007658/228391012-c43d760d-b27c-4064-ae8b-b2fa32a47023.gif)
+![Profile Picture]([https://user-images.githubusercontent.com/29007658/228391012-c43d760d-b27c-4064-ae8b-b2fa32a47023.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FJonathan%2FKise%2Fus-0-United-States&psig=AOvVaw0ioVXhGpaGcDJav8Kd8qGt&ust=1717287092517000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKisorb0uIYDFQAAAAAdAAAAABAE))
