@@ -11,9 +11,9 @@ write programs in C++.
 
 ## Skills and Technologies
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: Java, C++, 6502 assembly
+- **Frameworks**: React, Node.js, 
+- **Tools**: Git, Docker, ChatGPT
 
 ## Projects
 
